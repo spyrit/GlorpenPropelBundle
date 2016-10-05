@@ -1,16 +1,16 @@
 {
-    "name": "glorpen/propel-bundle",
+    "name": "spyrit/glorpen-propel-bundle",
     "description": "Propel events and model extending for Symfony2.",
     "type": "symfony-bundle",
     "license": "GPL-3.0",
     "require": {
         "symfony/symfony": ">=2.3,<4.0",
-        "propel/propel-bundle": "1.*"
+        "propel/propel-bundle": "3.*"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
         "squizlabs/php_codesniffer": "*",
-        "propel/propel-bundle": ">=1.4.4"
+        "propel/propel-bundle": "3.*"
     },
     "authors": [
         {
